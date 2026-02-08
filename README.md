@@ -149,7 +149,7 @@ This project follows JavaScript best practices. Consider using:
 3. Add utility functions in the `utils/` directory
 4. Update the main server file to include new routes
 
-##Contributing
+## Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -161,5 +161,3 @@ Contributions are welcome! Here's how you can help:
 
 
 ---
-
-Made with ❤️ by Bishal Paul
