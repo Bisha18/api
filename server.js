@@ -11,7 +11,7 @@ import connectDB from './utils/db.js'
 const app = express();
 
 // Middleware
-app.use(cors());
+app.use(cors({  origin: "*" }));
 app.use(express.json());
 
 // MongoDB Connection
